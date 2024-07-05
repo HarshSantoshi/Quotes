@@ -1,0 +1,30 @@
+.saved-quotes {
+    margin-top: 40px;
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .saved-quotes h2 {
+    font-size: 24px;
+    color: #007bff;
+    margin-bottom: 20px;
+  }
+  
+  .saved-quotes ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .saved-quotes li {
+    margin: 10px 0;
+    padding: 10px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    max-width: 600px;
+    margin: 10px auto;
+    text-align: left;
+    font-size: 16px;
+    color: #333;
+  }
+  

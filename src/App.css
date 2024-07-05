@@ -1,0 +1,32 @@
+.app {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .quote-card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 20px;
+    background-color: #f9f9f9;
+  }
+  
+  .fetch-button {
+    margin: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+  }
+  
+  .saved-quotes {
+    margin-top: 40px;
+  }
+  
+  .saved-quotes ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .saved-quotes li {
+    margin: 10px 0;
+  }
+  
